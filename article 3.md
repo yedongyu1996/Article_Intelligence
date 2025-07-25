@@ -1,4 +1,4 @@
-# Measuring latent combinational novelty of technology
+# Measuring latent combinational novelty of technology (2022)
 
 ### 1. 研究对象
 

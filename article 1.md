@@ -1,4 +1,4 @@
-# A new method for measuring the originality of academic articles based on knowledge units in semantic networks
+# A new method for measuring the originality of academic articles based on knowledge units in semantic networks (2022)
 
 ### 1. 研究对象
 

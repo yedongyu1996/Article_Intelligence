@@ -1,4 +1,4 @@
-# Empowering AI with experiential learning: Implications from analysing user-generated content
+# Empowering AI with experiential learning: Implications from analysing user-generated content (2025)
 
 ### 1. 研究目标 · 内容 · 问题 · 出发点
 

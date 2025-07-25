@@ -1,4 +1,4 @@
-# Introducing a novelty indicator for scientific research: validating the knowledge-based combinatorial approach
+# Introducing a novelty indicator for scientific research: validating the knowledge-based combinatorial approach (2021)
 
 ### 1. 研究对象
 

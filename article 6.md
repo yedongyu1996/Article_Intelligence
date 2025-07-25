@@ -1,4 +1,4 @@
-# A review on the novelty measurements of academic papers
+# A review on the novelty measurements of academic papers (2025)
 
 ### 1. 研究目标 · 内容 · 问题 · 出发点
 

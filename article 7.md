@@ -1,4 +1,4 @@
-# An effective framework for measuring the novelty of scientific articles through integrated topic modeling and cloud model
+# An effective framework for measuring the novelty of scientific articles through integrated topic modeling and cloud model (2024)
 
 ### 1. 研究目标 · 内容 · 问题 · 出发点
 

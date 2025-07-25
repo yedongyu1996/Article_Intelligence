@@ -1,4 +1,4 @@
-# New directions in science emerge from disconnection and discord
+# New directions in science emerge from disconnection and discord (2022)
 
 ### 1. 研究对象
 
