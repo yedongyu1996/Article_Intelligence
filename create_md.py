@@ -32,6 +32,7 @@ def t():
     print(f"Created: {new_filename}")
 
 if __name__ == "__main__":
-    num = 4
+    num = 1
+
     for i in range(num):
         t()
