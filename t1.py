@@ -4,7 +4,7 @@ import re
 def pack_articles_to_read(
     source_dir=".",
     out_dir="read",
-    n_outputs=6,
+    n_outputs=1,
     separator="\n=============================《文章分隔符》=============================\n",
     encoding="utf-8"
 ):
